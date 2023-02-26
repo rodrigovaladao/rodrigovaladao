@@ -12,3 +12,4 @@ I’m currently learning:
 - React
 - Node.js
 - C#
+- Angular
